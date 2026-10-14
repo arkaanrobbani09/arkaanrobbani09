@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arkaan</h1>
+<h1 align="center">Hi, I'm Arkaan</h1>
 <h3 align="center">Tech Enthusiast specializing in Cloud Computing, AI, and Smart IoT Systems</h3>
 
 - 🔭 I’m currently working on [AISeeU: Multi Zone Vehicle Counting Dashboard](https://drive.google.com/drive/folders/1ms7_O0eYP8UrXHecwjwEShRV0tc4Kw7T)
